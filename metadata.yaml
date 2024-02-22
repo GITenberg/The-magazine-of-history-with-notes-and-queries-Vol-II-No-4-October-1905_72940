@@ -1,0 +1,30 @@
+_repo: The-magazine-of-history-with-notes-and-queries-Vol-II-No-4-October-1905_72940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72940'
+language: en
+pgterms:marc905: 20210402135603various
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Carla Foust, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bWilliam Abbatt, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The magazine of history with notes and queries, Vol. II, No. 4, October 1905
+url: http://www.gutenberg.org/ebooks/72940
